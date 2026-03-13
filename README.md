@@ -55,7 +55,7 @@ Controller – Processes user requests and controls application logic
 
 GitHub: @"
 Hlengiwe Patience Nkosi - github-hlengiwePM
-Nthabelang Mofokeng –  github-
+Nthabelang Mofokeng –  github- nmofokeng764-prog
 Herman Ngwenya -  github -ngwenyakabelo899-bit
 Idah Lekoloane -  github- Idah2004
 
