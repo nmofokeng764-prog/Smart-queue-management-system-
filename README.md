@@ -13,16 +13,26 @@ Written in **Placeholder**
 
 1. Methodologies/Project Management:
 
-   - Agile
+   -Agile – The project follows an Agile approach where development is divided into smaller tasks and completed in stages to allow continuous improvement and feedback.
 
 2. Coding Practices:
 
-   - OOP (Object Oriented Programming)
-   - MVC (Model View Controller)
+   - OOP (Object Oriented Programming) The system is developed using object-oriented principles to ensure modular, reusable, and maintainable code.
+   - MVC (Model View Controller) – The system architecture follows the MVC pattern, separating the application into three components:
+
+Model – Manages data and database interactions
+
+View – Handles the user interface
+
+Controller – Processes user requests and controls application logic
 
 3. Programming Languages/Frameworks:
 
-   - Placeholder
+   -HTM
+   -CSS
+   -JavaScript
+   - Python
+   
 
 ## Instructions
 
@@ -41,7 +51,13 @@ Written in **Placeholder**
 
 [Melvin Kisten](https://github.com/iammelvink 'Melvin Kisten\'s GitHub page')
 
-GitHub: @"Group members"
+GitHub: @"
+Hlengiwe Patience Nkosi - github-hlengiwePM
+Nthabelang Mofokeng –  github-
+Herman Ngwenya -  github -ngwenyakabelo899-bit
+Idah Lekoloane -  github- Idah2004
+
+"
 
 LinkedIn: [Melvin Kisten](https://www.linkedin.com/in/iammelvink 'Melvin Kisten\'s LinkedIn page')
 
