@@ -5,7 +5,9 @@
 [![Code License](https://img.shields.io/badge/Code%20License-GPLv2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20%40iammelvink-blue.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/iammelvink)
 
-## Overview
+## Overview: Smart Queue Booking management system
+
+This repository contains the codebase and documentation developed for the Smart Queue Booking and Management System project. The project aims to improve queue management in South African government service centres by allowing citizens to book appointments online, receive allocated time slots, and reduce waiting times at service offices.
 
 This is the codebase produced for the Project course
 
